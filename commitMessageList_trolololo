@@ -1,0 +1,246 @@
+JWFKWJF;LAKSDJF;AWKJOFWH;KFD;AKW;FLWAJ;OFI;OFHWAFEH;AODKF;HALKEW;OHFIWH;FELWKAH;OFEWKHA
+blah
+Added my name to author and changed the print statement
+balkjlksaflwejfalwke
+Fixed merge error
+Changing statement
+lks;jfkjfdsa
+This is a test for my hot keys
+This is the second test message
+Ok I promise this is the last test probably
+Last test for real now.
+This is the final test message
+added sampleLevel1.txt
+removed test messages, added sampleLevel1.txt
+keyListening
+stuff
+more stuff
+updating hero
+updated hero
+platforms and hero
+message
+fixed testLevel1
+removed the writeFile() method
+printing char values
+...
+Updated level select
+added an advance listener to call the component
+Level gets a frame!!!
+added drawScreen() method to ArcadeGameComponent
+derpy message for testing
+giving ArcadeGameCompononnenentnetnt a level
+doing stuff
+push attempt #2
+made interface Collidable
+update level to include Collidable
+added platform
+getting a nullpointerexception
+fixed exception
+added method
+updated a whole bunch of stuff
+removed getObjects
+added a size to the frame but it isn't working
+commenetentned out the pack
+fixed partial sizing
+sizing
+doo-doo-doo
+test push
+messing with hero
+help
+fixed stuff
+yoooo we got the hero thing to move
+stuff that I honestly don't know what I changed
+fixing dir
+adding Timer to main
+It MOOOOOOOOOOOOOVVVVVVVEEEEEEEEEESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+minor
+commit message
+It MOOOOOOOOOOOOOOOOOOOOVVVVEEEEEEEEESSSSSSSSSSSS
+It MMMMOOOOOOOOOOOOOOVVVVVVVVVEEEEEEEEEEEESSSSSSSSSSSS
+minor
+more minor
+mmmm
+will this fix it
+removed a singular space...
+removed current time printer
+removed hero from objects
+added collision
+.
+..
+maybe i changed something?
+removing nullpointerexception by avoiding the problem; fix this
+testcollision
+gravity too stromnk
+.
+test push
+newwwwwm
+blah
+functional
+fixed stuff
+collisions mostly work??
+ok
+unstaticced
+new one
+Fixed the things
+fixed collisions getting you stuck in blocks, added new bug i mean feature where you can now teleport if you are touching a side of a platform and press the opposite movement key
+random teleportation is now much less likely to occur
+fixed the NYOOOOOOM effect and collisions
+misc testing "improvements"
+uhhh i think i fixed the bottomCollision sticking its now super slippery near the edges tho yea
+fixing merge conflicts
+testing
+newmmmmmm
+made new temp class for collision methods
+COBWEB PLATFORMS!!!!
+updated some not working methods to keep them not working for now
+stuff was changed please pull
+working on collisions in hero
+removing blank lines
+trying out CollisionTester fixing
+dir is gone ***crab rave***
+jump machine broke (temporarily, but side machine fixed?)
+removed bad extraneous variables
+fixing ground side collisions
+...help
+push
+collision machine broke even more
+YOOOOOOO BOTTOM COLLISIONS
+at least you dont teleport through blocks anymore aka MINECRAFT HORSE MODE
+removed unnecessary test file
+flapping somewhat fixed
+new expanded test level
+10x50 testLevel
+removed unnecessary print statements, added hero to test level
+merrrrrrrge
+test for merrrrrrrge
+jump machine fine, run machine v broke, also levels are larger now
+indented level
+fixed??
+added new experimental method for (vertical) collision testing
+added comment to new experimental method
+added a case for the dy beam not finding any rects aka freefall
+I have no clue how to fix collisions
+fixed the hero getting spiked downward by gravity if it left a platform
+methods that arent in use yet are being updated
+trying to get it to stay onscreen, but no more nyyyooooooomm
+finished "beam" collision methods
+removed side collisions
+floor and ceiling collisions are mostly fixed
+print debugging in progress
+forgot to stage hero
+collisions are good enough for now
+sidewalk cracks break yo momma's back
+speed nerf
+huh?
+uh oh merge conflicts
+tried to re fix flap
+hey hey hey guess what i fixed collisions for real this time
+nevermind ceiling collisions are still kinda wonk
+rainbow hero
+merge conflicts
+added monster class
+added some comments and added frame collisions to monsters
+made hero bigger for testing, commented out unused methods
+platform nyooms have hereby been fixededed
+added comments about collisions in monster
+made Jouster
+abstracts
+added veryveryvery rudimentary monster
+more abstracts
+even more abstracts
+working version of monster
+working copy
+hero update
+now hero updated
+fixed monster if statement
+...abstract
+minor details
+updated randomness for dx and dy
+monster update #48
+monsters workee now
+more monsters
+added shell of RangedMonster class - implement me later
+monsters
+misc changes to rangedmonster
+removed extraneous comments from monster
+preliminary laser uppage
+adding a single ranged monster to the test level
+stupid merge conflicts
+ranged monster has laser now muhauuahaaha
+working version of ranged dude
+magenta ranged dudeham
+push flap good now
+lasers implemented, now for laser firing cycle and laser hitbox
+fixed everything pretty much, print statements are gone **crab rave** also comments are gone **crab rave #2 electric boogaloo** random spaces removed and hero actually stays on screen for once in its life
+you broke it
+merge conflicts and laggy game??
+lasers are finally implemented but sometimes the tracer laser doesn't show up, this is totally an intended feature and just tests players' skill in detecting when a ranged enemy has stopped moving and is preparing an attack that just so happens to be hidden. y'know, every now and then an enemy is gonna try to 360 no scope ya boy and hes just gotta be prepared for that day that is now the in lore reason why the tracer doesn't show up the enemy just got a random burst of skill and decided to turn off his targeting controls and fire blindly but the laser still needs charging up so he just sits there silently for a bit then quickdraws and fires in an unpredictable fashion. git gud, he retorts, as the enemy dude turns around and explosions happen behind him. This occurence happens approximately once every 20 laser firings, and usually occurs around the left side of the map. It is also good to note that the code causing this 1 in 20 bug i mean feature is pretty much exactly the same as the full-power laser but with a different width and color. there is currently no reason for this code to act out of line and when found it will be severly punished. reward: my sanity at 3am, dead or alive.
+uhh so apparently theres a second compeletely intended feature in which the lasers fire both ways at once very competely intended yes its a test of player skill
+fixed monsters not despawning when switching stages, also randomized movement more for monsters
+monster placement in levels edited
+fixing spacing, random comments, and that one final long that we have no clue what it is
+making a monsterOnscreen method for better functionality
+merge
+fixed merge stuff
+fixing hyperspeed due to merge
+misc comment for when monster die
+starting X and Y
+fixed laser collisions and removed error messages
+added egg
+may I offer you an egg in these trying times
+nom nom nom them eggo my leggos
+chonky boi
+added death msgs
+commented a section that gets called when hero loses joust
+making sure hero is flush with frame side when trying to go offscreen
+making things better with abstract methods
+made commit message list up to date till now
+chanb's AVATAR: THE LAST AIRBENDER
+hero can now die in peace
+death is better now and ranged monsters don't pop out of eggs guns blazing
+print statements are gone ***crab rave vol 2***
+removing extra lines and failing to figure out how to avoid type-predicated code
+added temp sprites to monsters
+EGG
+big change push because i got lazy with pushing since vk's laptop died, rip. lasers now face both directions, ranged monster "animation" yet to be implemented uhhh eggs work but theyre kinda pixelated cause they smol af updated level's constructor calls to handle the extra image files n stuff y'know
+updating commit list on loaner laptop :(
+quack quack coding duck has joined the battle!
+slightly larger and less pixellated
+goose laser better slightly
+forgot to stage laser
+misc changes to homnking
+backgrounds!!!
+it's the great pumpkin, Charlie Brown!
+random themes
+had forgotten to do the same for the other constructor
+changed platform color
+added frankenducks
+added platform textures **spooooky**
+updated goose tracer to be more visible, goose jetpack sprtes still work in progress
+platform skins now match level backgrounds
+new level layout
+ROCKET GEESE MOVE AT VERY FAST (average) SPEED
+Folders upon folders upon folders
+new level, timer speed up, uhhh goose go faster now
+redone levels
+bottom platforms onscreen
+hero invincibility on spawn/respawn
+raw sekelekeketon scoreabords aseddded now typings ihard ok
+lives sorta work but dont reset game yet
+temporarlayary gaemaover screeen skind workas
+SCORE WORKEKEE NOW IM BOUTTA GET LESS SLEEP THAN A NAP WOULD GIVE ME
+added blinky blinky effect to laser, nerfed geese
+minor changes to make score multiplier cooldowns more or less harsh, increased i-frames, made it so you can't kill stuff during i-frames, if you want to impeleljlemtn a power up later that uses i-frames just override it with an or statement
+high score implementation in progress
+uml stuff
+doodoodoo
+tracker buggy
+level UPs work now, but scoreTracker doesn't display
+This Tracker is on FIREEEE!!
+fixed pickup eggs not givning score
+fixed scores better
+last level added, pseudo boss battle pretty much, updated level naming
+stuff
+added instructions
+powerpoint
+added codingduck to presentation
